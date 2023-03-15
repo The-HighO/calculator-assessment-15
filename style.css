@@ -43,7 +43,7 @@ main{
     border-bottom-left-radius: 2rem;
     border-bottom-right-radius: 2rem;
     display: grid;
-    grid-template-rows: 6rem 6rem 6rem 1fr;
+    grid-template-rows: 1fr 1fr 1fr 2fr;
     cursor: pointer;
 }
 .result{
