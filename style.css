@@ -24,8 +24,8 @@ main{
     align-items: center;
 }
 .container{
-    width: 18%;
-    height: 75%;
+    width: 17rem;
+    height: 40rem;
     background-color: var(--deep-blue);
     border-radius: 2rem;
     display: grid;
